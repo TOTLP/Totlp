@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+
+		<PackageId>Totlp</PackageId>
+		<Version>1.0.0</Version>
+		<Title>TOTLP - Time-based One-Time Linux Password</Title>
+		<Authors>MrYusuf61</Authors>
+		<Description>A stateless, time-based, cross-platform deterministic password generator designed for dynamically rotating Linux passwords.</Description>
+		<PackageTags>totp;security;linux;password-generator;cryptography</PackageTags>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<RepositoryUrl>https://github.com/MrYusuf61/Totlp</RepositoryUrl>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<None Include="..\README.md" Pack="true" PackagePath="\" />
+	</ItemGroup>
+</Project>
