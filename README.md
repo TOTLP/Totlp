@@ -3,6 +3,7 @@
 A stateless, cross-platform, and time-synchronized password generator designed for dynamically rotating Linux passwords. Built on `.NET Standard 2.0` to support both modern `.NET Core / .NET 5+` and legacy `.NET Framework` applications.
 
 [![NuGet version](https://img.shields.io/nuget/v/Totlp.svg)](https://www.nuget.org/packages/Totlp/)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Totlp?logo=nuget)](https://www.nuget.org/packages/Totlp/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
