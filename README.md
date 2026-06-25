@@ -77,7 +77,7 @@ Console.WriteLine($"Active Password: {currentPassword}");
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/MrYusuf61/Totlp/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MrYusuf61/Totlp/blob/main/LICENSE.txt) file for details.
 
 
 ## Security Disclaimer
